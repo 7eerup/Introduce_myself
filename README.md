@@ -6,3 +6,4 @@
       <img src="https://img.shields.io/badge/tech savyy-181717?style=for-the-badge&logo=tech savyy&logoColor=white"> -->
 </div>
 
+:computer:Currently, Trainee, Metaverse NFT Blockchain BootCamp based in the HKIT
