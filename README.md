@@ -7,7 +7,7 @@
 
 <div align=left>     
       <a href="https://github.com/7eerup">
-      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white>
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
             
 </div>
       
