@@ -11,4 +11,4 @@
             
 </div>
       
-👨‍💻Currently, Trainee, Metaverse NFT Blockchain BootCamp based in the HKIT
+👨‍💻
